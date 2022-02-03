@@ -1,0 +1,34 @@
+{
+  "news": [
+    {
+      "profileId": "6665fb8a-b781-11eb-8529-0242ac130003",
+      "spaceId": "b55df2ab-19ea-4ed8-bc40-8a4bb5708484",
+      "newsId": "0",
+      "type": "news",
+      "placement": "PARTY",
+      "priority": 1,
+      "displayTime": 999,
+      "publicationDate": "2021-05-17T21:00:00",
+      "mediaURL": "https://public-cdn.justdancebest.tk/public/home/_news_content/textures/_news_content_Cover_Generic_JDB.png",
+      "mediaType": null,
+      "links": ["https://public-cdn.justdancebest.tk/public/home/_news_content/textures/_news_content_Cover_Generic_JDB.png"],
+      "obj": {}
+    }
+  ],
+  "translations": {
+    "0": {
+      "en": ["Welcome!", "Welcome to Just Dance® Best!"],
+      "es": ["¡Bienvenido!", "¡Bienvenido a Just Dance® Best!"],
+      "pt": ["Bem-vindo!", "Bem-vindo ao Just Dance® Best!"],
+      "fr": ["Bienvenue!", "Bienvenue dans Just Dance® Best!"],
+      "ru": ["Добро пожаловать!", "Добро пожаловать в Just Dance® Best!"],
+      "zh": ["欢迎！", "欢迎来到Just Dance® Best！"]
+    },
+    "1": {
+      "en": ["imagine killing your game", "and the community too ;("]
+    },
+    "2": {
+      "en": ["Coming soon!", "World Dance Floor is coming soon to Just Dance Best."]
+    }
+  }
+}

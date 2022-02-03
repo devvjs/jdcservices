@@ -1,0 +1,68 @@
+[
+  {
+    "entityId": "aa359245-8b6f-4a7d-81a6-0c91f52cc388",
+    "spaceId": "f1ae5b84-db7c-481e-9867-861cf1852dc8",
+    "type": "server",
+    "name": "prod",
+    "tags": [],
+    "obj": {
+      "name": "JMCS PROD",
+      "url": "http://jdcs-prod.justdanceonline.net"
+    },
+    "lastModified": "",
+    "revision": 1
+  },
+  {
+    "entityId": "cd8593dc-2d53-449c-9dbd-cc43ebb7d3d4",
+    "spaceId": "f1ae5b84-db7c-481e-9867-861cf1852dc8",
+    "type": "server",
+    "name": "default",
+    "tags": [],
+    "obj": {
+      "name": "JMCS PROD",
+      "url": "http://jdcs-prod.justdanceonline.net"
+    },
+    "lastModified": "",
+    "revision": 6
+  },
+  {
+    "entityId": "5c0c0631-a227-4cd5-91e9-b6985032d816",
+    "spaceId": "c3381564-0417-495f-bc1f-64e8e8af65c5",
+    "type": "server",
+    "name": "cert",
+    "tags": [],
+    "obj": {
+      "name": "JMCS cert",
+      "url": "http://jdcs-cert.justdanceonline.net"
+    },
+    "lastModified": "",
+    "revision": 1,
+    "testServer": true
+  },
+  {
+    "entityId": "5c0c0631-a227-4cd5-91e9-b6985032d816",
+    "spaceId": "c3381564-0417-495f-bc1f-64e8e8af65c5",
+    "type": "server",
+    "name": "uat",
+    "tags": [],
+    "obj": {
+      "name": "JMCS uat",
+      "url": "http://jdcs-uat.justdanceonline.net"
+    },
+    "lastModified": "",
+    "revision": 1
+  },
+  {
+    "entityId": "5c0c0631-a227-4cd5-91e9-b6985032d816",
+    "spaceId": "c3381564-0417-495f-bc1f-64e8e8af65c5",
+    "type": "server",
+    "name": "staging",
+    "tags": [],
+    "obj": {
+      "name": "JMCS staging",
+      "url": "http://jdcs-staging.justdanceonline.net"
+    },
+    "lastModified": "",
+    "revision": 1
+  }
+]
