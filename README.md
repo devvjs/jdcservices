@@ -12,8 +12,8 @@ Just Dance Custom Services, used for Just Dance Best/Online, I worked on up to J
 ## How to install
 
 - Use `git clone https://github.com/devvjs/jdcservices.git` or download the repo as a ZIP file directly.
-- Once you are done, go into `jdcs` folder and run `npm i` to install all packages that are required.
-- After that, you can run the server by `node jdcs.js`.
+- Once you are done, go into `jdcservices` folder and run `npm i` to install all packages that are required.
+- After that, you can run the server by `node jdcservices.js`.
 
 ## License
 There is no license for this project currently.
